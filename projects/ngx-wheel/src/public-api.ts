@@ -3,4 +3,4 @@
  */
 
 export * from './lib/ngx-wheel.component';
-export * from './lib/ngx-wheel.module';
+export * from './lib/flipavuruthu.module';

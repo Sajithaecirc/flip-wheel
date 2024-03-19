@@ -6,4 +6,4 @@ import { NgxWheelComponent } from './ngx-wheel.component';
   imports: [],
   exports: [NgxWheelComponent],
 })
-export class NgxWheelModule {}
+export class FlipavuruthuModule {}
