@@ -30,8 +30,7 @@
             "styles": [
               "src/styles.less"
             ],
-            "scripts": [
-            ]
+            "scripts": []
           },
           "configurations": {
             "production": {
@@ -164,6 +163,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-wheel"
+    }
+  },
+  "defaultProject": "angular-wheel",
+  "cli": {
+    "analytics": "7548a8ce-95dc-4720-bacd-5234b64152ac"
+  }
 }
