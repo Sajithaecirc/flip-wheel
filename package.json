@@ -1,6 +1,6 @@
 {
-  "name": "angular-wheel",
-  "version": "0.0.0",
+  "name": "flipavuruthu",
+  "version": "1.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -12,7 +12,7 @@
     "e2e": "ng e2e",
     "dev": "ng build ngx-wheel && ng s"
   },
-  "private": true,
+  "private": false,
   "dependencies": {
     "@angular/animations": "~9.1.7",
     "@angular/common": "~9.1.7",
@@ -48,5 +48,21 @@
     "ts-node": "~8.3.0",
     "tslint": "~6.1.0",
     "typescript": "~3.8.3"
-  }
+  },
+  "description": "[![npm version](https://badge.fury.io/js/ngx-wheel.svg)](https://badge.fury.io/js/ngx-wheel)\r ![npm](https://img.shields.io/npm/dt/ngx-wheel.svg)",
+  "main": "karma.conf.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sajithaecirc/flip-wheel.git"
+  },
+  "keywords": [
+    "wheel",
+    "avuruthu"
+  ],
+  "author": "sajitha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sajithaecirc/flip-wheel/issues"
+  },
+  "homepage": "https://github.com/Sajithaecirc/flip-wheel#readme"
 }
